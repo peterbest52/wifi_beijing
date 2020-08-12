@@ -35,12 +35,13 @@ The information is then uploaded to a cloud server and can be exported into a ta
 ## Wi-Fi Data ##
 The Wi-Fi data for the study area were collected by the 29 Wi-Fi detectors installed in the study area from October 2 through October 14, 2018. They contained the Wi-Fi connection records derived from 463,874 individuals. Due to privacy concerns, the last four digits of the user's MAC address were masked out.
 
-The Wi-Fi data can be downloaded from [here](https://github.com/peterbest52/wifi_beijing/blob/data/Wifi.zip).
+The Wi-Fi data can be downloaded from [here](https://github.com/xic19022/wifi_bj/blob/master/Wifi.zip).
 
 ## POI Data ##
 The point-of-interest (POI) data were used for deriving the activity types for the SSTM modeling. The raw data was derived from AutoNavi (www.amap.com), one of the largest web map service providers in China.
 
-The POI data can be downloaded from [here](https://github.com/peterbest52/wifi_beijing/blob/data/POI.xlsx).
+The POI data can be downloaded from [here](https://github.com/xic19022/wifi_bj/blob/master/POI.xlsx).
 
 ## SSTM Codes ##
-The Python codes for generating the SSTM can be downloaded from [here](https://github.com/xic19022/wifi_beijing/tree/codes).
+The Python codes for generating the SSTM can be downloaded from [here](https://github.com/xic19022/wifi_bj/blob/master/SSTM_codes.zip).
+Instructions for using the codes can be accessed from [here](https://github.com/xic19022/wifi_bj/blob/master/SSTM_codes.zip).
