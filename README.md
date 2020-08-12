@@ -44,4 +44,5 @@ The POI data can be downloaded from [here](https://github.com/xic19022/wifi_bj/b
 
 ## SSTM Codes ##
 The Python codes for generating the SSTM can be downloaded from [here](https://github.com/xic19022/wifi_bj/blob/master/SSTM_codes.zip).
-Instructions for using the codes can be accessed from [here](https://github.com/xic19022/wifi_bj/blob/master/SSTM_codes.zip).
+
+Instructions for using the codes can be accessed from [here](https://github.com/xic19022/wifi_bj/blob/master/SSTM_Instructions.md).
