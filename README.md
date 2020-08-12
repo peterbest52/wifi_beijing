@@ -8,7 +8,7 @@ Please refer to the article for details.
 ## Study Area ##
 The study area is the **Shichahai scenic area** of Beijing, China (Figure 1). This area is known for its unique hutong culture, a residential culture of grassroots Beijingers living in small alleys, which can be traced back to the Yuan Dynasty (1267–1368 AD). As a reminiscence of the history, the Shichahai scenic area has been gentrified for mixed urban functions, including cultural preservation, residential housing, and tourist development. Also, due to the large volume of daily visitors, human mobility patterns in the area are extremely complex. This complexity is further confounded by unorganized building footprints, where small alleys crisscross an open and geographically small area (i.e., 146.7 hectares or 0.56 square miles in total area).
 
-![Study area](https://github.com/peterbest52/wifi_beijing/blob/images/Study_area.jpg)
+![Study area](https://github.com/xic19022/wifi_bj/blob/img/Study_area.jpg)
 
 <div align="center">Figure 1. Wi-Fi detectors installed in the study area</div>
 <br />
@@ -17,7 +17,7 @@ The study area is the **Shichahai scenic area** of Beijing, China (Figure 1). Th
 
 Wi-Fi sensing employs a Wi-Fi detector that tracks Wi-Fi probe requests within an effective detection range when a mobile device attempts to establish a wireless connection to the 802.11 wireless network, generally known as the Wi-Fi network (see Figure 2a). In the case study, we used the WIFIPIX WP-300 Wi-Fi detectors with a detection range of 25 meters (see Figure 2b). 
 
-![Wifi_detector](https://github.com/peterbest52/wifi_beijing/blob/images/Wifi.jpg)
+![Wifi_detector](https://github.com/xic19022/wifi_bj/blob/img/Wifi.jpg)
 
 <div align="center">Figure 2. (a) Diagram of the Wi-Fi data collection; (b) the Wi-Fi detector used in the study</div>
 <br />
