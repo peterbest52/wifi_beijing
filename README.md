@@ -26,7 +26,7 @@ When a probe request is received by the Wi-Fi detector, it will be decoded into 
 
 * Wi-Fi detector ID
 * MAC address of the mobile device
-* Start stimestamp
+* Start timestamp
 * End timestamp
 * Date
 
@@ -38,7 +38,7 @@ The Wi-Fi data for the study area were collected by the 29 Wi-Fi detectors insta
 The Wi-Fi data can be downloaded from [here](https://github.com/xic19022/wifi_bj/blob/master/Wifi.zip?raw=true).
 
 ## POI Data ##
-The point-of-interest (POI) data were used for deriving the activity types for the SSTM modeling. The raw data was derived from AutoNavi (www.amap.com), one of the largest web map service providers in China.
+The point-of-interest (POI) data were used for deriving the activity types for the SSTM modeling. The raw data were derived from AutoNavi (www.amap.com), one of the largest web map service providers in China.
 
 The POI data can be downloaded from [here](https://github.com/xic19022/wifi_bj/blob/master/POI.xlsx?raw=true).
 
