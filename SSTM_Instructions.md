@@ -6,7 +6,7 @@ The codes can be accessed from [here](https://github.com/xic19022/wifi_bj/blob/m
 ## Instructions ##
 The python codes *SSTM.py* has been developed to generate the SSTM. Specifically, it derives the visit frequency of the track points based on each user’s media access control (MAC) address.
 
-**Inputs**: Input data for running the *SSTM.py* include the raw Wi-Fi data (filename: *Wifi.csv* in the zipped file *wifi.zip*), weekend dates during the study period (filename: *weekend_date_dict.xlsx*), time periods in a day (filename: *time_period_dict.xlsx*), and the major activity type near each Wi-Fi detector (filename: *activity_type_dict.xlsx*).
+**Inputs**: Input data for running the *SSTM.py* include the raw [Wi-Fi data](https://github.com/xic19022/wifi_bj/blob/master/Wifi.zip) (filename: *Wifi.csv* in the zipped file *wifi.zip*), weekend dates during the study period (filename: *weekend_date_dict.xlsx*), time periods in a day (filename: *time_period_dict.xlsx*), and the major activity type near each Wi-Fi detector (filename: *activity_type_dict.xlsx*).
 
 Please change the reading and writing file paths to your local directory before running the codes. It may take a few hours to run the codes.
 
