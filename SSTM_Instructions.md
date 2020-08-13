@@ -1,7 +1,7 @@
 # SSTM Codes #
 
 ## Downloads ##
-The codes can be accessed from [here](https://github.com/xic19022/wifi_bj/blob/master/SSTM_codes.zip).
+The codes can be accessed from [here](https://github.com/xic19022/wifi_bj/blob/master/SSTM_codes.zip?raw=true).
 
 ## Instructions ##
 The python codes *SSTM.py* has been developed to generate the SSTM. Specifically, it derives the visit frequency of the track points based on each user’s media access control (MAC) address.
